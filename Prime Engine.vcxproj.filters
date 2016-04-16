@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{779a6723-b0f3-43f2-b729-360f1f8b7faf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Main">
+      <UniqueIdentifier>{e6ddbfaf-b246-466f-8631-3e8363441827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems">
+      <UniqueIdentifier>{22d36fa6-14fd-41f4-bdb2-9f8b75aa1468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems\Base">
+      <UniqueIdentifier>{35ad0cf0-203f-472d-b0de-5fab2f5a9acd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems\Game">
+      <UniqueIdentifier>{1eff15f1-4fdd-4571-99b2-225d54021a1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems\GameLogic">
+      <UniqueIdentifier>{d342e3fa-4e3c-45e4-b2db-a1c9dd8e0138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems\Graphics">
+      <UniqueIdentifier>{d552c80f-befd-4956-b1c6-38b1fc89c2b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems\Timer">
+      <UniqueIdentifier>{7f102fe2-9953-42df-9fa5-e834e9bd5ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Systems\Window">
+      <UniqueIdentifier>{57f40386-de0c-4bb0-ace4-179b155865d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Debug">
+      <UniqueIdentifier>{5ce526b6-a504-4276-8fa9-b82d627e6229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Defines">
+      <UniqueIdentifier>{78791a53-c38d-42d5-b544-0694aa8d35c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Helpers">
+      <UniqueIdentifier>{68cc65ff-f053-4906-91f4-b6c93f267635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Helpers\Factory">
+      <UniqueIdentifier>{617c84a7-ecd7-4383-a2e1-411e1d2bce3a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Winmain.cpp">
+      <Filter>Header Files\Core\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Header Files\Core\Systems\GameLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Custom Engine Files\Window.cpp">
+      <Filter>Header Files\Core\Systems\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine2.cpp">
+      <Filter>Header Files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Custom Engine Files\Logger.cpp">
+      <Filter>Header Files\Debug</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WinMain.h">
+      <Filter>Header Files\Core\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>Header Files\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="iostream.h">
+      <Filter>Header Files\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Header Files\Core\Systems\GameLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Custom Engine Files\Window.h">
+      <Filter>Header Files\Core\Systems\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine2.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Custom Engine Files\Logger.h">
+      <Filter>Header Files\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Custom Engine Files\d2dutill.h">
+      <Filter>Header Files\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Custom Engine Files\stringstream.h">
+      <Filter>Header Files\Defines</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

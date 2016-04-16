@@ -1,0 +1,10 @@
+﻿  Winmain.cpp
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.h(9): error C2143: syntax error: missing ')' before ';'
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.h(10): error C2146: syntax error: missing ';' before identifier 'WinMain'
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.h(10): error C2065: 'HINSTANCE': undeclared identifier
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.h(10): error C2146: syntax error: missing ')' before identifier 'hIinstance'
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.cpp(19): error C2146: syntax error: missing ';' before identifier 'WinMain'
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.cpp(19): error C2065: 'HINSTANCE': undeclared identifier
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.cpp(19): error C2146: syntax error: missing ')' before identifier 'hIinstance'
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.cpp(20): error C2143: syntax error: missing ';' before '{'
+c:\users\hawksteampowered\documents\visual studio 2015\projects\prime engine\winmain.cpp(20): error C2447: '{': missing function header (old-style formal list?)
