@@ -1,0 +1,3 @@
+Install npp.6.9.1.installer.exe (notepad++) if you dont have it
+then read the readme.md and readme2.md using notepad++ then get visual studio 2015 if you dont already have it and then go into prime
+engine then open it to see the engine you can use anything out of there but you must credit me in your work 
