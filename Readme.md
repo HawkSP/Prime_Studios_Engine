@@ -21,4 +21,4 @@ Service Providers P.R.I.M.E Studio shares personal information with companies wh
 
 Others It may be necessary - by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence - for P.R.I.M.E Studios to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-If you agree to these: http://goo.gl/forms/3ai8AafxjJ
+
